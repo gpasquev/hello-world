@@ -1,3 +1,2 @@
 # hello-world
-ejemplo
-hola probando
+Ejemplo, del uso de commits. Es solo una prueba.
